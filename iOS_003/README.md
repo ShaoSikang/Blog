@@ -1,4 +1,4 @@
-# AFNetWorking里的UIKit+AFNetWorking 清除缓存
+# AFNetWorking里的UIKit+AFNetWorking 清除缓存的方法
 
 有用AFNetWorking里的AFNetWorking里的UIKit+AFNetWorking，我共享一个清除图片缓存的方法。
 

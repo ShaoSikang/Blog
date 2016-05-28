@@ -11,4 +11,4 @@
 
 > [iOS 截屏代码（并保存到相册）](/iOS_002/README.md)
 
-> [AFNetWorking里的UIKit+AFNetWorking 清除缓存](/iOS_003/README.md)
+> [AFNetWorking里的UIKit+AFNetWorking清除缓存的方法](/iOS_003/README.md)
