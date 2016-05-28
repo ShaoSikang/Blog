@@ -36,6 +36,6 @@
 注意点
 
 ```h
-// UIKeyboardFrameEndUserInfoKey 为键盘修改后的高度
- UIKeyboardFrameBeginUserInfoKey 为键盘修改前的高度，在切换键盘的时候可能得出不正确的高度
+ UIKeyboardFrameEndUserInfoKey 为键盘修改后的高度
+// UIKeyboardFrameBeginUserInfoKey 为键盘修改前的高度，在切换键盘的时候可能得出不正确的高度
 ```
