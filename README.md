@@ -4,7 +4,7 @@
 
 喜欢的别忘记 Star
 
-
+***
 > [序](/Before/README.md)
 
 > [iOS动态获取键盘高度（注意点）](/iOS_001/README.md)
@@ -15,6 +15,6 @@
 
 
 ***
-[有问题欢迎相互探讨，这里](/issues)
+[有问题欢迎相互探讨，这里](issues)
 
-shaosikang@qq.com。
+shaosikang@qq.com
