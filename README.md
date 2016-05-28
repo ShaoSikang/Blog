@@ -15,6 +15,6 @@
 
 
 ***
-[有问题欢迎相互探讨，这里](issues)
+[有问题欢迎相互探讨，这里](https://github.com/ShaoSikang/Blog/issues)
 
 shaosikang@qq.com
